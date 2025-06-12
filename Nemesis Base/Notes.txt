@@ -1,2 +1,0 @@
-Notes:
-Place Mesh with bones at center in blender, don't offset the parameters or the Avatar Descriptor in unity will mess up the view point.
